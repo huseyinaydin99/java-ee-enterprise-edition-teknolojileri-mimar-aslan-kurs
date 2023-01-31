@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_Maven_JUnit_Test/02_Maven_JUnit_Test.iml" filepath="$PROJECT_DIR$/02_Maven_JUnit_Test/02_Maven_JUnit_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_JSP-JSF-JPA-Hibernate-Spring-WildFly-CSS-Bootstrap/12_JSP-JSF-JPA-Hibernate-Spring-WildFly-CSS-Bootstrap.iml" filepath="$PROJECT_DIR$/12_JSP-JSF-JPA-Hibernate-Spring-WildFly-CSS-Bootstrap/12_JSP-JSF-JPA-Hibernate-Spring-WildFly-CSS-Bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-ee-enterprise-edition-teknolojileri-mimar-aslan-kurs.iml" filepath="$PROJECT_DIR$/.idea/java-ee-enterprise-edition-teknolojileri-mimar-aslan-kurs.iml" />
+    </modules>
+  </component>
+</project>

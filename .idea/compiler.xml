@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="02_Maven_JUnit_Test" />
+        <module name="12_JSP-JSF-JPA-Hibernate-Spring-WildFly-CSS-Bootstrap" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="02_Maven_JUnit_Test" target="1.5" />
+      <module name="03_RDBMS_SQL_JDBC" target="1.5" />
+      <module name="10_SpringMaven" target="1.5" />
+      <module name="12_JSP-JSF-JPA-Hibernate-Spring-WildFly-CSS-Bootstrap" target="1.5" />
+      <module name="benimuygulamam" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="benimuygulamam" options="-Xlint:all" />
+    </option>
+  </component>
+</project>

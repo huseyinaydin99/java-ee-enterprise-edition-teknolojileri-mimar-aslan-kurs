@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/03-RDBMS-SQL-JDBC" />
+    <file type="web" url="file://$PROJECT_DIR$/11-SpringMVC" />
+    <file type="web" url="file://$PROJECT_DIR$/12_JSP-JSF-JPA-Hibernate-Spring-WildFly-CSS-Bootstrap" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/11_SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/10_SpringMaven/pom.xml" />
+        <option value="$PROJECT_DIR$/03_RDBMS_SQL_JDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/02_Maven_JUnit_Test/pom.xml" />
+        <option value="$PROJECT_DIR$/12_JSP-JSF-JPA-Hibernate-Spring-WildFly-CSS-Bootstrap/pom.xml" />
+        <option value="$PROJECT_DIR$/02-Maven-JUnit-Test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
